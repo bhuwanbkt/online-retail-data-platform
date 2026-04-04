@@ -1,0 +1,9 @@
+pandas
+kafka-python
+psycopg2-binary
+sqlalchemy
+streamlit
+apache-airflow
+python-dotenv
+pytest
+flake8
