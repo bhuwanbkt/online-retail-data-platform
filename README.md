@@ -86,7 +86,7 @@ streamlit run dashboard/app.py
 ![Airflow](assets/airflow.png)
 
 ### Docker
-![Docker](assets/docker.png)
+![Docker](assets/Docker.png)
 
 ### Kafka
 ![kafka](assets/kafka.png)
