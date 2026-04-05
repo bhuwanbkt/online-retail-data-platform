@@ -85,8 +85,11 @@ streamlit run dashboard/app.py
 ### Airflow DAG
 ![Airflow](assets/airflow.png)
 
-### Airflow DAG
-![Airflow](assets/kafka.png)
+### Docker
+![Docker](assets/docker.png)
+
+### Kafka
+![kafka](assets/kafka.png)
 
 ## CI/CD
 
