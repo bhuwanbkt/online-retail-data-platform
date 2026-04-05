@@ -113,7 +113,10 @@ if not hourly_df.empty:
     if len(hourly_chart_df) == 1:
         st.bar_chart(hourly_chart_df[["total_revenue"]], use_container_width=True)
     else:
-        st.line_chart(hourly_chart_df[["total_revenue"]], use_container_width=True)
+        st.line_chart(
+            hourly_chart_df[["total_revenue"]],
+            use_container_width=True,
+        )
 else:
     st.info("No hourly data found.")
 
